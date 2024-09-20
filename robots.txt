@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lypichur.github.io/sitemap.html.gz
+Sitemap: https://lypichur.github.io/app/sitemap.html.gz
+Sitemap: https://lypichur.github.io/assets/sitemap.html.gz
+Sitemap: https://lypichur.github.io/css/sitemap.html.gz
+Sitemap: https://lypichur.github.io/data/sitemap.html.gz
+Sitemap: https://lypichur.github.io/includes/sitemap.html.gz
+Sitemap: https://lypichur.github.io/item/sitemap.html.gz
+Sitemap: https://lypichur.github.io/src/sitemap.html.gz
